@@ -229,9 +229,6 @@ Terrorist                 /|/ Raiden= Nein | Geiselnahme= Ja | Raub auf Person= 
 Hitman                    /|/ Raiden= Ja | Geiselnahme= Nein | Raub auf Person= Nein
 Meister Dieb              /|/ Raiden= Ja | Geiselnahme= Nein | Raub auf Person= Ja
 Joker                     /|/ Raiden= Ja | Geiselnahme= Ja | Raub auf Person= Ja
-
-Custom Charakter
---------------------
 Sid Cat                   /|/ Raiden= Ja | Geiselnahme= Nein | Raub auf Person= Nein
 
 §8.3 Waffenstufe 1: (Nahkampf, Pistolen)
@@ -259,10 +256,7 @@ Terrorist                 Waffenstufe 3
 Hitman                    Vorgegebene(n) Waffe(n)
 Meister Dieb              Waffenstufe 3
 Joker                     Vorgegebene(n) Waffe(n)
-
-Custom Charakter
---------------------
-Sid Cat
+Sid Cat                   Waffenstufe 3
 
 
 
