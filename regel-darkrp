@@ -220,8 +220,12 @@ S.W.A.T.                  /|/ Raiden= Nein | Geiselnahme= Nein | Raub auf Person
 S.W.A.T. CHIEF            /|/ Raiden= Nein | Geiselnahme= Nein | Raub auf Person= Nein
 Waffendheandler           /|/ Raiden= Nein | Geiselnahme= Nein | Raub auf Person= Nein
 Schwarzmarktheandler      /|/ Raiden= Nein | Geiselnahme= Nein | Raub auf Person= Nein
-Mafia Mitglied            /|/ Raiden= Ja | Geiselnahme= Ja | Raub auf Person= Nein
-Mafia Boss                /|/ Raiden= Ja | Geiselnahme= Ja | Raub auf Person= Nein
+Mafia Mitglied            /|/ Raiden= Ja | Geiselnahme= Ja | Raub auf Person= Ja
+Mafia Boss                /|/ Raiden= Ja | Geiselnahme= Ja | Raub auf Person= Ja
+Crip                      /|/ Raiden= Ja | Geiselnahme= Ja | Raub auf Person= Ja
+Crip O.G.                 /|/ Raiden= Ja | Geiselnahme= Ja | Raub auf Person= Ja
+Blood                     /|/ Raiden= Ja | Geiselnahme= Ja | Raub auf Person= Ja
+Blood O.G.                /|/ Raiden= Ja | Geiselnahme= Ja | Raub auf Person= Ja
 Dieb                      /|/ Raiden= Ja | Geiselnahme= Nein | Raub auf Person= Ja
 Rebell                    /|/ Raiden= Ja | Geiselnahme= Ja | Raub auf Person= Ja
 Rebellen Boss             /|/ Raiden= Ja | Geiselnahme= Ja | Raub auf Person= Ja
@@ -249,6 +253,10 @@ Waffendheandler           Waffenstufe 2
 Schwarzmarktheandler      Waffenstufe 3
 Mafia Mitglied            Waffenstufe 2
 Mafia Boss                Waffenstufe 3
+Crip                      Waffenstufe 2
+Crip O.G.                 Waffenstufe 3
+Blood                     Waffenstufe 2
+Blood O.G.                Waffenstufe 3
 Dieb                      Waffenstufe 2
 Rebell                    Waffenstufe 2
 Rebellen Boss             Waffenstufe 3
